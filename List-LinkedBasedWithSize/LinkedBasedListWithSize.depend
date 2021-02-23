@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1606556592 source:e:\projects\datastructure\linkedlistwithsize\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedListWithSize.h"
+
+1606556586 e:\projects\datastructure\linkedlistwithsize\linkedlistwithsize.h
+
+1606556586 source:e:\projects\datastructure\linkedlistwithsize\linkedlistwithsize.c
+	<stdlib.h>
+	"LinkedListWithSize.h"
+
+1606556592 source:e:\projects\datastructure\list-linkedwithsize\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedListWithSize.h"
+
+1606556586 e:\projects\datastructure\list-linkedwithsize\linkedlistwithsize.h
+
+1606590675 source:e:\projects\datastructure\list-linkedwithsize\linkedlistwithsize.c
+	<stdlib.h>
+	"LinkedListWithSize.h"
+

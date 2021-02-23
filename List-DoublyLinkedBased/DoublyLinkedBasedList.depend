@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1606511787 source:c:\users\devah\onedrive\desktop\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyLinkedList.h"
+
+1606515097 c:\users\devah\onedrive\desktop\doublylinkedlist\doublylinkedlist.h
+
+1606511828 source:c:\users\devah\onedrive\desktop\doublylinkedlist\doublylinkedlist.c
+	<stdlib.h>
+	"DoublyLinkedList.h"
+
+1606511787 source:e:\projects\datastructure\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyLinkedList.h"
+
+1606515097 e:\projects\datastructure\doublylinkedlist\doublylinkedlist.h
+
+1606511787 source:e:\projects\datastructure\list-doublylinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoublyLinkedList.h"
+
+1606590478 e:\projects\datastructure\list-doublylinked\doublylinkedlist.h
+
