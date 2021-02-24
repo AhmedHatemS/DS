@@ -34,8 +34,8 @@ void PostOrder(Tree t, void(*pvisit)(Entry))
 {
     if(t)
     {
-        PreOrder(t->Left, pvisit);
-        PreOrder(t->Right, pvisit);
+        PostOrder(t->Left, pvisit);
+        PostOrder(t->Right, pvisit);
         (*pvisit)(t->Info);
     }
 }

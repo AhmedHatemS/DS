@@ -1,7 +1,7 @@
 #ifndef BST_H_INCLUDED
 #define BST_H_INCLUDED
 
-typedef char EntryType;
+typedef int EntryType;
 typedef struct node{
     EntryType Info;
     struct node *Left;
@@ -21,5 +21,6 @@ void PrintLevel(Tree *t, int level, void(*pvisit)(Entry));
 void Insert(Tree *t,EntryType item);
 void Insert(Tree *t,EntryType item);
 int Delete(Tree *t,EntryType k);
+
 
 #endif // BST_H_INCLUDED

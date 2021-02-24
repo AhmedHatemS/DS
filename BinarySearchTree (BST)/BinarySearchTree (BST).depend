@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\devah\desktop\binarysearchtree (bst)\main.c
+1614206911 source:c:\users\devah\desktop\binarysearchtree (bst)\main.c
 	<stdio.h>
 	<stdlib.h>
+	"BST.h"
+
+1614206457 source:c:\users\devah\desktop\binarysearchtree (bst)\bst.c
+	<stdlib.h>
+	"BST.h"
+
+1614206464 c:\users\devah\desktop\binarysearchtree (bst)\bst.h
 
