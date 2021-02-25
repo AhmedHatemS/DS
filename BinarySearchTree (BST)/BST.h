@@ -18,7 +18,7 @@ void PostOrder(Tree t, void(*pvisit)(Entry));
 int TreeSize(Tree t);
 int TreeHeight(Tree t);
 void PrintLevel(Tree *t, int level, void(*pvisit)(Entry));
-void Insert(Tree *t,EntryType item);
+void ClearTree(Tree *t);
 void Insert(Tree *t,EntryType item);
 int Delete(Tree *t,EntryType k);
 

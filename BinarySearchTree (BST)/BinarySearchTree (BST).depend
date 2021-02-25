@@ -10,3 +10,14 @@
 
 1614206464 c:\users\devah\desktop\binarysearchtree (bst)\bst.h
 
+1614207110 source:e:\projects\datastructure\binarysearchtree (bst)\bst.c
+	<stdlib.h>
+	"BST.h"
+
+1614249970 e:\projects\datastructure\binarysearchtree (bst)\bst.h
+
+1614207110 source:e:\projects\datastructure\binarysearchtree (bst)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
