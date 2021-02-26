@@ -10,3 +10,14 @@
 
 1614017920 c:\users\devah\desktop\stack-linkedbased\linkedbasedstack.h
 
+1614349062 source:e:\projects\datastructure\stack-linkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedBasedStack.h"
+
+1614017920 e:\projects\datastructure\stack-linkedbased\linkedbasedstack.h
+
+1614348987 source:e:\projects\datastructure\stack-linkedbased\linkedbasedstack.c
+	<stdlib.h>
+	"LinkedBasedStack.h"
+

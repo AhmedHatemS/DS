@@ -51,22 +51,21 @@ void DestroyStack(Stack *ps)
     while(*ps)
     {
         q=*ps;
-        *ps=(*
-             ps)->Next;
+        *ps=(*ps)->Next;
         free(q);
     }
 }
 EntryType ReturnFirst(Stack *ps)
 {
+    return (*ps)->Info;
+}
+EntryType ReturnLast(Stack *ps)
+{
     Node *q;
     q = *ps;
     while (q->Next)
         q = q->Next;
-    return q;
-}
-EntryType ReturnLast(Stack *ps)
-{
-    return (*ps)->Info;
+    return q->Info;
 }
 int StackSize(Stack *ps)
 {

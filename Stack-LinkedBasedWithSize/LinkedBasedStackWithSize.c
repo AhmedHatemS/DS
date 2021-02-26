@@ -41,11 +41,11 @@ EntryType ReturnFirst(Stack *ps)
     q = ps->Top;
     while (q->Next)
         q = q->Next;
-    return q;
+    return q->Info;
 }
 EntryType ReturnLast(Stack *ps)
 {
-    return ps->Top;
+    return ps->Top->Info;
 }
 int StackSize(Stack *ps)
 {

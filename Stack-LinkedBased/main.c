@@ -14,6 +14,8 @@ int main()
         PushElement(e, &s);
     }
 
+    printf("The first Now is : %d\n", ReturnFirst(&s));
+    printf("The last Now is : %d\n", ReturnLast(&s));
     printf("The Size Now is : %d\n", StackSize(&s));
 
     PopElement(&e, &s);
