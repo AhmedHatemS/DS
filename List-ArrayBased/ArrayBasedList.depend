@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1606561630 source:e:\projects\datastructure\arraybasedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayBasedList.h"
+
+1606561568 source:e:\projects\datastructure\arraybasedlist\arraybasedlist.c
+	"ArrayBasedList.h"
+
+1606561713 e:\projects\datastructure\arraybasedlist\arraybasedlist.h
+
+1633543869 source:e:\projects\datastructure\list-arraybased\arraybasedlist.c
+	"ArrayBasedList.h"
+
+1606561713 e:\projects\datastructure\list-arraybased\arraybasedlist.h
+
+1633543361 source:e:\projects\datastructure\list-arraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayBasedList.h"
+

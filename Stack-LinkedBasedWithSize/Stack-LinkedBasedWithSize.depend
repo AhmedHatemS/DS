@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614349292 source:e:\projects\datastructure\stack-linkedbasedwithsize\linkedbasedstackwithsize.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedBasedStackWithSize.h"
+
+1614009384 e:\projects\datastructure\stack-linkedbasedwithsize\linkedbasedstackwithsize.h
+
+1614349261 source:e:\projects\datastructure\stack-linkedbasedwithsize\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedBasedStackWithSize.h"
+

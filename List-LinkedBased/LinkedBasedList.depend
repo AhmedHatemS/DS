@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1606419663 source:c:\users\devah\onedrive\desktop\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1606417603 source:c:\users\devah\onedrive\desktop\linkedlist\linkedlist.c
+	<stdlib.h>
+	"LinkedList.h"
+
+1606409468 c:\users\devah\onedrive\desktop\linkedlist\linkedlist.h
+
+1606514560 source:e:\projects\datastructure\linkedlist\linkedlist.c
+	<stdlib.h>
+	"LinkedList.h"
+
+1606513588 e:\projects\datastructure\linkedlist\linkedlist.h
+
+1606514019 source:e:\projects\datastructure\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1608469449 source:e:\projects\datastructure\list-linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1608469449 e:\projects\datastructure\list-linked\linkedlist.h
+
+1606632037 source:e:\projects\datastructure\list-linked\linkedlist.c
+	<stdlib.h>
+	"LinkedList.h"
+
+1633541637 source:e:\projects\datastructure\list-linkedbased\linkedbasedlist.c
+	<stdlib.h>
+	"LinkedBasedList.h"
+
+1614072980 e:\projects\datastructure\list-linkedbased\linkedbasedlist.h
+
+1614072980 source:e:\projects\datastructure\list-linkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedBasedList.h"
+

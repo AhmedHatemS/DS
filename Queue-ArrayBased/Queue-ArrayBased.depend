@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633010233 source:e:\projects\datastructure\queue-arraybased\arraybasedqueue.c
+	"ArrayBasedQueue.h"
+
+1608584814 e:\projects\datastructure\queue-arraybased\arraybasedqueue.h
+
+1608588489 source:e:\projects\datastructure\queue-arraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayBasedQueue.h"
+
