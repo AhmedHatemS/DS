@@ -10,7 +10,7 @@ int ListEmpty(List *L)
 }
 int ListFull(List *L)
 {
-    return L->Size == MAX-1;
+    return L->Size == MAX;
 }
 int ListSize(List *L)
 {
