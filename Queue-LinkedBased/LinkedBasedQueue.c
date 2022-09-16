@@ -86,7 +86,7 @@ EntryType ReturnMax(Queue *q)
     Node *temp;
     temp = q->Front->Next;
     maximum = q->Front->Info;
-    while (temp->Next)
+    while (temp)
     {
         if (temp->Info > maximum)
         {
